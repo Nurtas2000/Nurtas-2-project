@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data and outputs (example, adjust as needed)
+data/raw/
+outputs/models/
+
+# IDE specific
+.vscode/
+.idea/

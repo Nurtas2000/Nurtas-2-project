@@ -1,0 +1,19 @@
+# Analysis Report
+
+## 1. Overview
+- **Dataset**: 50 records of fitness tracker data.
+- **Goal**: Predict calories burned and activity type.
+
+## 2. Key Insights
+### Correlation Analysis
+| Metric          | Correlation with Calories |
+|-----------------|--------------------------|
+| Steps           | 0.89                     |
+| Heart Rate      | 0.75                     |
+| Sleep Hours     | 0.45                     |
+
+### Model Performance
+| Model               | RMSE (Calories) | Accuracy (Activity) |
+|---------------------|-----------------|---------------------|
+| Random Forest       | 22.5            | 92%                 |
+| Linear Regression   | 35.8            | -                   |
