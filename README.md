@@ -1,6 +1,5 @@
 # Fitness Tracker Data Analysis 🏃‍♂️
 
-![EDA Plots](outputs/plots/fitness_eda.png)
 
 A data analysis and machine learning project to predict calories burned and activity type from fitness tracker data.
 
