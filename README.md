@@ -11,6 +11,6 @@ A data analysis and machine learning project to predict calories burned and acti
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/fitness-tracker-analysis.git
+git clone https://github.com/Nurtas2000/fitness-tracker-analysis.git
 cd fitness-tracker-analysis
 pip install -r requirements.txt
